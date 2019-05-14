@@ -2,6 +2,9 @@ language: python
 python:
   - "2.7"
   - "3.6"
+env:
+  - OSSRH_USERNAME=hello
+  - OSSRH_PASSWORD=notapassword
 install:
   - pip install -r requirements.txt
 script:

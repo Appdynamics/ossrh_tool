@@ -9,6 +9,8 @@ This tool lets you publish maven packages to maven central through [oss.sonatype
 
 ## Prerequisites
 
+Python 2.7
+
 ### 1. Credentials
 
 Create an account in sonatype and follow the initial setup steps in the guide at https://central.sonatype.org/pages/ossrh-guide.html .

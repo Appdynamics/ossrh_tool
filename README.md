@@ -18,7 +18,7 @@ Load your credentials in environment variables `OSSRH_USERNAME` and `OSSRH_PASSW
 
 ### 2. Project structure
 
-The project you would like to upload should consist of binary, sources and javadoc jars, as well as a pom file, all of them already signed with your private key. All these artifacts should be flat in the same directory, and be named `{project}-{version}{-qualifier?}.{extension}`.
+The project you would like to upload should consist of binary, sources and javadoc jars, as well as a pom file, all of them already signed. All of these artifacts should be flat in a single directory, and be named `{project}-{version}{-qualifier?}.{extension}`.
 
 For instance:
 
@@ -34,7 +34,7 @@ For instance:
 
 ### 3. Agent ID
 
-Generate a unique string. This will be your "agent ID". Think of it like a session ID which is used to uniquely identify your own session. If someone else (or another CI/CD build host) is using the repository at the same time as you, the tool will not get confused because both of you are using different agent IDs.
+Generate a unique string. This will be your "agent ID". Think of it like a session ID which is used to uniquely identify your own session. If someone else (or another CI/CD build host) is using the repository at the same time as you, the tool will not get confused because you are using different IDs from one another.
 
 ## Publishing a project
 

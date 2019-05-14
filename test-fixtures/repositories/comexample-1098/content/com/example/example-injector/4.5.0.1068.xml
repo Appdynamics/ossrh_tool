@@ -1,0 +1,132 @@
+<content>
+  <data>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068.pom</resourceURI>
+      <relativePath>/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068.pom</relativePath>
+      <text>example-injector-4.5.0.1068.pom</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:37:23.0 UTC</lastModified>
+      <sizeOnDisk>1494</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068-sources.jar</resourceURI>
+      <relativePath>/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068-sources.jar</relativePath>
+      <text>example-injector-4.5.0.1068-sources.jar</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:37:36.0 UTC</lastModified>
+      <sizeOnDisk>479</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068.jar.sha1</resourceURI>
+      <relativePath>/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068.jar.sha1</relativePath>
+      <text>example-injector-4.5.0.1068.jar.sha1</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:37:33.0 UTC</lastModified>
+      <sizeOnDisk>40</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068.pom.md5</resourceURI>
+      <relativePath>/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068.pom.md5</relativePath>
+      <text>example-injector-4.5.0.1068.pom.md5</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:37:25.0 UTC</lastModified>
+      <sizeOnDisk>32</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068-sources.jar.sha1</resourceURI>
+      <relativePath>/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068-sources.jar.sha1</relativePath>
+      <text>example-injector-4.5.0.1068-sources.jar.sha1</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:37:38.0 UTC</lastModified>
+      <sizeOnDisk>40</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068.pom.sha1</resourceURI>
+      <relativePath>/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068.pom.sha1</relativePath>
+      <text>example-injector-4.5.0.1068.pom.sha1</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:37:26.0 UTC</lastModified>
+      <sizeOnDisk>40</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068-javadoc.jar</resourceURI>
+      <relativePath>/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068-javadoc.jar</relativePath>
+      <text>example-injector-4.5.0.1068-javadoc.jar</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:37:44.0 UTC</lastModified>
+      <sizeOnDisk>479</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068-javadoc.jar.asc</resourceURI>
+      <relativePath>/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068-javadoc.jar.asc</relativePath>
+      <text>example-injector-4.5.0.1068-javadoc.jar.asc</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:37:59.0 UTC</lastModified>
+      <sizeOnDisk>198</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068-javadoc.jar.sha1</resourceURI>
+      <relativePath>/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068-javadoc.jar.sha1</relativePath>
+      <text>example-injector-4.5.0.1068-javadoc.jar.sha1</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:37:54.0 UTC</lastModified>
+      <sizeOnDisk>40</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068.pom.asc</resourceURI>
+      <relativePath>/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068.pom.asc</relativePath>
+      <text>example-injector-4.5.0.1068.pom.asc</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:37:27.0 UTC</lastModified>
+      <sizeOnDisk>198</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068.jar.asc</resourceURI>
+      <relativePath>/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068.jar.asc</relativePath>
+      <text>example-injector-4.5.0.1068.jar.asc</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:37:35.0 UTC</lastModified>
+      <sizeOnDisk>198</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068.jar</resourceURI>
+      <relativePath>/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068.jar</relativePath>
+      <text>example-injector-4.5.0.1068.jar</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:37:31.0 UTC</lastModified>
+      <sizeOnDisk>708246</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068-sources.jar.md5</resourceURI>
+      <relativePath>/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068-sources.jar.md5</relativePath>
+      <text>example-injector-4.5.0.1068-sources.jar.md5</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:37:37.0 UTC</lastModified>
+      <sizeOnDisk>32</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068-sources.jar.asc</resourceURI>
+      <relativePath>/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068-sources.jar.asc</relativePath>
+      <text>example-injector-4.5.0.1068-sources.jar.asc</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:37:39.0 UTC</lastModified>
+      <sizeOnDisk>198</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068-javadoc.jar.md5</resourceURI>
+      <relativePath>/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068-javadoc.jar.md5</relativePath>
+      <text>example-injector-4.5.0.1068-javadoc.jar.md5</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:37:50.0 UTC</lastModified>
+      <sizeOnDisk>32</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068.jar.md5</resourceURI>
+      <relativePath>/com/example/example-injector/4.5.0.1068/example-injector-4.5.0.1068.jar.md5</relativePath>
+      <text>example-injector-4.5.0.1068.jar.md5</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:37:32.0 UTC</lastModified>
+      <sizeOnDisk>32</sizeOnDisk>
+    </content-item>
+  </data>
+</content>

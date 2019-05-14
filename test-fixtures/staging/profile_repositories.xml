@@ -1,0 +1,220 @@
+<stagingRepositories>
+  <data>
+    <stagingProfileRepository>
+      <profileId>7edbe315063867</profileId>
+      <profileName>Central Bundles</profileName>
+      <profileType>repository</profileType>
+      <repositoryId>central_bundles-14223</repositoryId>
+      <type>open</type>
+      <policy>release</policy>
+      <userId>hao861002</userId>
+      <userAgent>Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0</userAgent>
+      <ipAddress>114.80.240.37</ipAddress>
+      <repositoryURI>https://oss.sonatype.org/content/repositories/central_bundles-14223</repositoryURI>
+      <created>2018-08-24T01:42:23.283Z</created>
+      <createdDate>Fri Aug 24 01:42:23 UTC 2018</createdDate>
+      <createdTimestamp>1535074943283</createdTimestamp>
+      <updated>2018-08-24T01:43:34.650Z</updated>
+      <updatedDate>Fri Aug 24 01:43:34 UTC 2018</updatedDate>
+      <updatedTimestamp>1535075014650</updatedTimestamp>
+      <description>Encryption special Toolkit of chinadatapay</description>
+      <provider>maven2</provider>
+      <releaseRepositoryId>central-sync</releaseRepositoryId>
+      <releaseRepositoryName>Central Sync Sources</releaseRepositoryName>
+      <notifications>6</notifications>
+      <transitioning>false</transitioning>
+    </stagingProfileRepository>
+    <stagingProfileRepository>
+      <profileId>123d30a6798c66</profileId>
+      <profileName>com.example</profileName>
+      <profileType>repository</profileType>
+      <repositoryId>comexample-1093</repositoryId>
+      <type>open</type>
+      <policy>release</policy>
+      <userId>example</userId>
+      <userAgent>BC72ZFoAEIbbM2p5aDcWgZeOgCLnvfgm</userAgent>
+      <ipAddress>209.234.175.138</ipAddress>
+      <repositoryURI>https://oss.sonatype.org/content/repositories/comexample-1093</repositoryURI>
+      <created>2018-08-24T11:34:38.031Z</created>
+      <createdDate>Fri Aug 24 11:34:38 UTC 2018</createdDate>
+      <createdTimestamp>1535110478031</createdTimestamp>
+      <updated>2018-08-27T17:49:52.700Z</updated>
+      <updatedDate>Mon Aug 27 17:49:52 UTC 2018</updatedDate>
+      <updatedTimestamp>1535392192700</updatedTimestamp>
+      <description>Implicitly created (auto staging).</description>
+      <provider>maven2</provider>
+      <releaseRepositoryId>releases</releaseRepositoryId>
+      <releaseRepositoryName>Releases</releaseRepositoryName>
+      <notifications>6</notifications>
+      <transitioning>false</transitioning>
+    </stagingProfileRepository>
+    <stagingProfileRepository>
+      <profileId>123d30a6798c66</profileId>
+      <profileName>com.example</profileName>
+      <profileType>repository</profileType>
+      <repositoryId>comexample-1095</repositoryId>
+      <type>closed</type>
+      <policy>release</policy>
+      <userId>example</userId>
+      <userAgent>4J5c83HM5216KgSa5Hjzp9B4NA2U8bd1</userAgent>
+      <ipAddress>209.234.175.138</ipAddress>
+      <repositoryURI>https://oss.sonatype.org/content/repositories/comexample-1095</repositoryURI>
+      <created>2018-08-24T13:01:19.304Z</created>
+      <createdDate>Fri Aug 24 13:01:19 UTC 2018</createdDate>
+      <createdTimestamp>1535115679304</createdTimestamp>
+      <updated>2018-08-27T17:47:45.717Z</updated>
+      <updatedDate>Mon Aug 27 17:47:45 UTC 2018</updatedDate>
+      <updatedTimestamp>1535392065717</updatedTimestamp>
+      <description>example agent</description>
+      <provider>maven2</provider>
+      <releaseRepositoryId>releases</releaseRepositoryId>
+      <releaseRepositoryName>Releases</releaseRepositoryName>
+      <notifications>0</notifications>
+      <transitioning>false</transitioning>
+    </stagingProfileRepository>
+    <stagingProfileRepository>
+      <profileId>7edbe315063867</profileId>
+      <profileName>Central Bundles</profileName>
+      <profileType>repository</profileType>
+      <repositoryId>central_bundles-14261</repositoryId>
+      <type>open</type>
+      <policy>release</policy>
+      <userId>mariopce</userId>
+      <userAgent>Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36</userAgent>
+      <ipAddress>188.95.31.34</ipAddress>
+      <repositoryURI>https://oss.sonatype.org/content/repositories/central_bundles-14261</repositoryURI>
+      <created>2018-08-27T07:51:05.617Z</created>
+      <createdDate>Mon Aug 27 07:51:05 UTC 2018</createdDate>
+      <createdTimestamp>1535356265617</createdTimestamp>
+      <updated>2018-08-27T07:52:42.255Z</updated>
+      <updatedDate>Mon Aug 27 07:52:42 UTC 2018</updatedDate>
+      <updatedTimestamp>1535356362255</updatedTimestamp>
+      <description>New version for upload to central repo </description>
+      <provider>maven2</provider>
+      <releaseRepositoryId>central-sync</releaseRepositoryId>
+      <releaseRepositoryName>Central Sync Sources</releaseRepositoryName>
+      <notifications>4</notifications>
+      <transitioning>false</transitioning>
+    </stagingProfileRepository>
+    <stagingProfileRepository>
+      <profileId>123d30a6798c66</profileId>
+      <profileName>com.example</profileName>
+      <profileType>repository</profileType>
+      <repositoryId>comexample-1097</repositoryId>
+      <type>closed</type>
+      <policy>release</policy>
+      <userId>example</userId>
+      <userAgent>python-requests/2.19.1</userAgent>
+      <ipAddress>173.38.220.34</ipAddress>
+      <repositoryURI>https://oss.sonatype.org/content/repositories/comexample-1097</repositoryURI>
+      <created>2018-08-27T14:02:01.704Z</created>
+      <createdDate>Mon Aug 27 14:02:01 UTC 2018</createdDate>
+      <createdTimestamp>1535378521704</createdTimestamp>
+      <updated>2018-08-27T17:45:55.027Z</updated>
+      <updatedDate>Mon Aug 27 17:45:55 UTC 2018</updatedDate>
+      <updatedTimestamp>1535391955027</updatedTimestamp>
+      <description>example agent</description>
+      <provider>maven2</provider>
+      <releaseRepositoryId>releases</releaseRepositoryId>
+      <releaseRepositoryName>Releases</releaseRepositoryName>
+      <notifications>0</notifications>
+      <transitioning>false</transitioning>
+    </stagingProfileRepository>
+    <stagingProfileRepository>
+      <profileId>123d30a6798c66</profileId>
+      <profileName>com.example</profileName>
+      <profileType>repository</profileType>
+      <repositoryId>comexample-1098</repositoryId>
+      <type>open</type>
+      <policy>release</policy>
+      <userId>example</userId>
+      <userAgent>GHgvBjb7fCZYfTtVEJ3n5Hf2IfYJbNQA</userAgent>
+      <ipAddress>209.234.175.138</ipAddress>
+      <repositoryURI>https://oss.sonatype.org/content/repositories/comexample-1098</repositoryURI>
+      <created>2018-08-27T14:37:15.806Z</created>
+      <createdDate>Mon Aug 27 14:37:15 UTC 2018</createdDate>
+      <createdTimestamp>1535380635806</createdTimestamp>
+      <updated>2018-08-27T17:42:25.283Z</updated>
+      <updatedDate>Mon Aug 27 17:42:25 UTC 2018</updatedDate>
+      <updatedTimestamp>1535391745283</updatedTimestamp>
+      <description>example agent</description>
+      <provider>maven2</provider>
+      <releaseRepositoryId>releases</releaseRepositoryId>
+      <releaseRepositoryName>Releases</releaseRepositoryName>
+      <notifications>0</notifications>
+      <transitioning>false</transitioning>
+    </stagingProfileRepository>
+    <stagingProfileRepository>
+      <profileId>123d30a6798c66</profileId>
+      <profileName>com.example</profileName>
+      <profileType>repository</profileType>
+      <repositoryId>comexample-1099</repositoryId>
+      <type>open</type>
+      <policy>release</policy>
+      <userId>example</userId>
+      <userAgent>zFM2DfDs1ciDgfDHB2VR0uILjsYTQUzq</userAgent>
+      <ipAddress>209.234.175.138</ipAddress>
+      <repositoryURI>https://oss.sonatype.org/content/repositories/comexample-1099</repositoryURI>
+      <created>2018-08-27T14:57:52.843Z</created>
+      <createdDate>Mon Aug 27 14:57:52 UTC 2018</createdDate>
+      <createdTimestamp>1535381872843</createdTimestamp>
+      <updated>2018-08-27T17:39:15.764Z</updated>
+      <updatedDate>Mon Aug 27 17:39:15 UTC 2018</updatedDate>
+      <updatedTimestamp>1535391555764</updatedTimestamp>
+      <description>example agent</description>
+      <provider>maven2</provider>
+      <releaseRepositoryId>releases</releaseRepositoryId>
+      <releaseRepositoryName>Releases</releaseRepositoryName>
+      <notifications>0</notifications>
+      <transitioning>true</transitioning>
+    </stagingProfileRepository>
+    <stagingProfileRepository>
+      <profileId>123d30a6798c66</profileId>
+      <profileName>com.example</profileName>
+      <profileType>repository</profileType>
+      <repositoryId>comexample-1100</repositoryId>
+      <type>closed</type>
+      <policy>release</policy>
+      <userId>example</userId>
+      <userAgent>lGRwQVjh1UQlUUZ5pPLuaFMHqNORlIC3</userAgent>
+      <ipAddress>209.234.175.138</ipAddress>
+      <repositoryURI>https://oss.sonatype.org/content/repositories/comexample-1100</repositoryURI>
+      <created>2018-08-27T16:32:29.576Z</created>
+      <createdDate>Mon Aug 27 16:32:29 UTC 2018</createdDate>
+      <createdTimestamp>1535387549576</createdTimestamp>
+      <updated>2018-08-27T16:37:06.215Z</updated>
+      <updatedDate>Mon Aug 27 16:37:06 UTC 2018</updatedDate>
+      <updatedTimestamp>1535387826215</updatedTimestamp>
+      <description>example agent</description>
+      <provider>maven2</provider>
+      <releaseRepositoryId>releases</releaseRepositoryId>
+      <releaseRepositoryName>Releases</releaseRepositoryName>
+      <notifications>0</notifications>
+      <transitioning>false</transitioning>
+    </stagingProfileRepository>
+    <stagingProfileRepository>
+      <profileId>7edbe315063867</profileId>
+      <profileName>Central Bundles</profileName>
+      <profileType>repository</profileType>
+      <repositoryId>central_bundles-14267</repositoryId>
+      <type>open</type>
+      <policy>release</policy>
+      <userId>cutebabyele</userId>
+      <userAgent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36</userAgent>
+      <ipAddress>87.78.48.16</ipAddress>
+      <repositoryURI>https://oss.sonatype.org/content/repositories/central_bundles-14267</repositoryURI>
+      <created>2018-08-29T10:57:45.662Z</created>
+      <createdDate>Wed Aug 29 10:57:45 UTC 2018</createdDate>
+      <createdTimestamp>1535540265662</createdTimestamp>
+      <updated>2018-08-29T10:58:15.904Z</updated>
+      <updatedDate>Wed Aug 29 10:58:15 UTC 2018</updatedDate>
+      <updatedTimestamp>1535540295904</updatedTimestamp>
+      <description>Java tweetwall library.</description>
+      <provider>maven2</provider>
+      <releaseRepositoryId>central-sync</releaseRepositoryId>
+      <releaseRepositoryName>Central Sync Sources</releaseRepositoryName>
+      <notifications>3</notifications>
+      <transitioning>false</transitioning>
+    </stagingProfileRepository>
+  </data>
+</stagingRepositories>

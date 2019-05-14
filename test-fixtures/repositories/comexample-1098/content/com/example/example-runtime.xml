@@ -1,0 +1,12 @@
+<content>
+  <data>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-runtime/4.5.0.1068/</resourceURI>
+      <relativePath>/com/example/example-runtime/4.5.0.1068/</relativePath>
+      <text>4.5.0.1068</text>
+      <leaf>false</leaf>
+      <lastModified>2018-08-27 14:38:57.0 UTC</lastModified>
+      <sizeOnDisk>-1</sizeOnDisk>
+    </content-item>
+  </data>
+</content>

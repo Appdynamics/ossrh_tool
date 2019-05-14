@@ -1,0 +1,52 @@
+<stagingRepositories>
+  <data>
+    <stagingProfileRepository>
+      <profileId>123d30a6798c66</profileId>
+      <profileName>com.example</profileName>
+      <profileType>repository</profileType>
+      <repositoryId>comexample-1099</repositoryId>
+      <type>open</type>
+      <policy>release</policy>
+      <userId>example</userId>
+      <userAgent>zFM2DfDs1ciDgfDHB2VR0uILjsYTQUzq</userAgent>
+      <ipAddress>209.234.175.138</ipAddress>
+      <repositoryURI>https://oss.sonatype.org/content/repositories/comexample-1099</repositoryURI>
+      <created>2018-08-27T14:57:52.843Z</created>
+      <createdDate>Mon Aug 27 14:57:52 UTC 2018</createdDate>
+      <createdTimestamp>1535381872843</createdTimestamp>
+      <updated>2018-08-27T17:39:15.764Z</updated>
+      <updatedDate>Mon Aug 27 17:39:15 UTC 2018</updatedDate>
+      <updatedTimestamp>1535391555764</updatedTimestamp>
+      <description>example agent</description>
+      <provider>maven2</provider>
+      <releaseRepositoryId>releases</releaseRepositoryId>
+      <releaseRepositoryName>Releases</releaseRepositoryName>
+      <notifications>0</notifications>
+      <transitioning>true</transitioning>
+    </stagingProfileRepository>
+    <stagingProfileRepository>
+      <profileId>123d30a6798c66</profileId>
+      <profileName>com.example</profileName>
+      <profileType>repository</profileType>
+      <repositoryId>comexample-1100</repositoryId>
+      <type>closed</type>
+      <policy>release</policy>
+      <userId>example</userId>
+      <userAgent>lGRwQVjh1UQlUUZ5pPLuaFMHqNORlIC3</userAgent>
+      <ipAddress>209.234.175.138</ipAddress>
+      <repositoryURI>https://oss.sonatype.org/content/repositories/comexample-1100</repositoryURI>
+      <created>2018-08-27T16:32:29.576Z</created>
+      <createdDate>Mon Aug 27 16:32:29 UTC 2018</createdDate>
+      <createdTimestamp>1535387549576</createdTimestamp>
+      <updated>2018-08-27T16:37:06.215Z</updated>
+      <updatedDate>Mon Aug 27 16:37:06 UTC 2018</updatedDate>
+      <updatedTimestamp>1535387826215</updatedTimestamp>
+      <description>example agent</description>
+      <provider>maven2</provider>
+      <releaseRepositoryId>releases</releaseRepositoryId>
+      <releaseRepositoryName>Releases</releaseRepositoryName>
+      <notifications>0</notifications>
+      <transitioning>false</transitioning>
+    </stagingProfileRepository>
+  </data>
+</stagingRepositories>

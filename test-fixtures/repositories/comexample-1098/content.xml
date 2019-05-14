@@ -1,0 +1,20 @@
+<content>
+  <data>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/</resourceURI>
+      <relativePath>/com/</relativePath>
+      <text>com</text>
+      <leaf>false</leaf>
+      <lastModified>2018-08-27 14:37:23.0 UTC</lastModified>
+      <sizeOnDisk>-1</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/archetype-catalog.xml</resourceURI>
+      <relativePath>/archetype-catalog.xml</relativePath>
+      <text>archetype-catalog.xml</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-29 11:59:32.655 UTC</lastModified>
+      <sizeOnDisk>25</sizeOnDisk>
+    </content-item>
+  </data>
+</content>

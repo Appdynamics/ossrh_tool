@@ -1,0 +1,132 @@
+<content>
+  <data>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068-sources.jar.md5</resourceURI>
+      <relativePath>/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068-sources.jar.md5</relativePath>
+      <text>example-gradle-plugin-4.5.0.1068-sources.jar.md5</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:43:28.0 UTC</lastModified>
+      <sizeOnDisk>32</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068.jar</resourceURI>
+      <relativePath>/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068.jar</relativePath>
+      <text>example-gradle-plugin-4.5.0.1068.jar</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:42:04.0 UTC</lastModified>
+      <sizeOnDisk>237211</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068.jar.asc</resourceURI>
+      <relativePath>/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068.jar.asc</relativePath>
+      <text>example-gradle-plugin-4.5.0.1068.jar.asc</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:42:47.0 UTC</lastModified>
+      <sizeOnDisk>198</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068-javadoc.jar.asc</resourceURI>
+      <relativePath>/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068-javadoc.jar.asc</relativePath>
+      <text>example-gradle-plugin-4.5.0.1068-javadoc.jar.asc</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:45:57.0 UTC</lastModified>
+      <sizeOnDisk>198</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068-javadoc.jar.md5</resourceURI>
+      <relativePath>/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068-javadoc.jar.md5</relativePath>
+      <text>example-gradle-plugin-4.5.0.1068-javadoc.jar.md5</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:45:14.0 UTC</lastModified>
+      <sizeOnDisk>32</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068-sources.jar.asc</resourceURI>
+      <relativePath>/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068-sources.jar.asc</relativePath>
+      <text>example-gradle-plugin-4.5.0.1068-sources.jar.asc</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:44:34.0 UTC</lastModified>
+      <sizeOnDisk>198</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068.jar.md5</resourceURI>
+      <relativePath>/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068.jar.md5</relativePath>
+      <text>example-gradle-plugin-4.5.0.1068.jar.md5</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:42:26.0 UTC</lastModified>
+      <sizeOnDisk>32</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068.jar.sha1</resourceURI>
+      <relativePath>/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068.jar.sha1</relativePath>
+      <text>example-gradle-plugin-4.5.0.1068.jar.sha1</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:42:35.0 UTC</lastModified>
+      <sizeOnDisk>40</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068-sources.jar</resourceURI>
+      <relativePath>/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068-sources.jar</relativePath>
+      <text>example-gradle-plugin-4.5.0.1068-sources.jar</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:43:05.0 UTC</lastModified>
+      <sizeOnDisk>479</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068.pom</resourceURI>
+      <relativePath>/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068.pom</relativePath>
+      <text>example-gradle-plugin-4.5.0.1068.pom</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:41:46.0 UTC</lastModified>
+      <sizeOnDisk>1463</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068-sources.jar.sha1</resourceURI>
+      <relativePath>/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068-sources.jar.sha1</relativePath>
+      <text>example-gradle-plugin-4.5.0.1068-sources.jar.sha1</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:43:47.0 UTC</lastModified>
+      <sizeOnDisk>40</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068.pom.asc</resourceURI>
+      <relativePath>/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068.pom.asc</relativePath>
+      <text>example-gradle-plugin-4.5.0.1068.pom.asc</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:41:56.0 UTC</lastModified>
+      <sizeOnDisk>198</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068.pom.sha1</resourceURI>
+      <relativePath>/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068.pom.sha1</relativePath>
+      <text>example-gradle-plugin-4.5.0.1068.pom.sha1</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:41:54.0 UTC</lastModified>
+      <sizeOnDisk>40</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068.pom.md5</resourceURI>
+      <relativePath>/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068.pom.md5</relativePath>
+      <text>example-gradle-plugin-4.5.0.1068.pom.md5</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:41:50.0 UTC</lastModified>
+      <sizeOnDisk>32</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068-javadoc.jar</resourceURI>
+      <relativePath>/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068-javadoc.jar</relativePath>
+      <text>example-gradle-plugin-4.5.0.1068-javadoc.jar</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:45:02.0 UTC</lastModified>
+      <sizeOnDisk>479</sizeOnDisk>
+    </content-item>
+    <content-item>
+      <resourceURI>https://oss.sonatype.org/service/local/repositories/comexample-1098/content/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068-javadoc.jar.sha1</resourceURI>
+      <relativePath>/com/example/example-gradle-plugin/4.5.0.1068/example-gradle-plugin-4.5.0.1068-javadoc.jar.sha1</relativePath>
+      <text>example-gradle-plugin-4.5.0.1068-javadoc.jar.sha1</text>
+      <leaf>true</leaf>
+      <lastModified>2018-08-27 14:45:30.0 UTC</lastModified>
+      <sizeOnDisk>40</sizeOnDisk>
+    </content-item>
+  </data>
+</content>
